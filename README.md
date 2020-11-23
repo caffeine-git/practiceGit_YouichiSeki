@@ -1,1 +1,1 @@
-# practiceGit_YouichiSeki
+GitHub練習
